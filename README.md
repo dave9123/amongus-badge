@@ -14,9 +14,7 @@ It can be a fun thing to get people to scan your badge (and maybe your website!)
 
 ![](./assets/pcb.jpg)
 
-## Order
-
-![](./assets/order.jpg)
+![](./assets/3dview.jpg)
 
 ## BOM
 
